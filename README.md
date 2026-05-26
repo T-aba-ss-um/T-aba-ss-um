@@ -7,7 +7,7 @@
 
 <img align="right" width="220" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-### Hi there 👋 I'm [Your Name]
+### Hi there  I'm Tabassum Binta Noor
 
 🎓 **CSE @ United International University**  
 🔭 Building end-to-end **data pipelines** & exploring LLMs  
@@ -44,8 +44,3 @@
 ---
 
 <!-- profile views + followers -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF&label=profile+views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=58A6FF&label=followers" />
-</div>
