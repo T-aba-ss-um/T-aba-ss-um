@@ -5,8 +5,6 @@
 
 ---
 
-<img align="right" width="220" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
 ### Hi there  I'm Tabassum Binta Noor
 
 🎓 **CSE @ United International University**  
